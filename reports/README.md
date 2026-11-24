@@ -13,6 +13,7 @@ The material is written for a board of directors, senior management team and lea
 | Item | Type | Folder |
 |---|---|---|
 | Management results report | Interactive report | [`management-results/`](management-results/) |
+| Investor profile | Interactive report | [`investor-profile/`](investor-profile/) |
 | Results for the nine months to 30 September 2026: a message from the leadership team | Video, 3 min 2 s, 16:9 | [`leadership-message/`](leadership-message/) |
 | Nine months in motion | Video, 1 min 10 s, 4:5 for social media | [`nine-months-in-motion/`](nine-months-in-motion/) |
 
@@ -49,6 +50,9 @@ index.html                    landing page
 README.md
 management-results/
     index.html                the interactive report
+    preview.jpg               thumbnail for the landing page
+investor-profile/
+    index.html                the investor profile report
     preview.jpg               thumbnail for the landing page
 leadership-message/
     index.html                player page
